@@ -1,10 +1,4 @@
 # odin_recipes
-index.html
-css folder
-js folder
-images folder
-other html files
+some great recipes of indian food 
+I hope u'll like them 
 
-
-date: 9/6/2022
-list worked with text links and images
