@@ -1,0 +1,56 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Tai Heritage Pro', serif;
+font-size: 20px;
+font-weight: bold;
+background-color: rgb(234, 218, 198)
+}
+
+.box {
+    border: 2px red solid;
+}
+
+.heading {
+    display:inline-flex;
+    justify-content: center;
+    border: 2px red solid;
+    width:90%;
+}
+.heading h1{
+    color: rgb(75, 55, 93);
+    font-size: 50px;
+    text-shadow: 1px 1px 4px gray;
+}
+.link {
+    display: inline-flex;
+    border: 2px red solid;
+}
+
+.image {
+    border: 2px red solid;
+    display: flex;
+    justify-content: center;
+}
+h2{
+    color: rgb(75, 55, 93);
+    font-size: 34px;
+    text-shadow: 1px 1px 4px gray;
+}
+img {
+width: 50%;
+}
+
+.para {
+    border: 2px red solid;
+}
+
+.heading2 {
+    border: 2px red solid;
+
+}
+
+.list {
+    border: 2px red solid;
+}

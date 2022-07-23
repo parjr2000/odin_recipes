@@ -1,0 +1,62 @@
+*{
+    /* padding: 5px; */
+    margin: 0px;
+    box-sizing: border-box;
+    font-size: 24px;
+    font-family: 'Tai Heritage Pro', serif;
+    font-weight: bold;
+    background-color: rgb(234, 218, 198);
+}
+.box{
+    border: red 2px solid;
+    padding: 5px;
+    width: fit-content;
+}
+.heading{
+    border: red 2px solid;
+    padding: 2px;
+    display: inline-flex;
+    justify-content: center;
+    width:90%;
+}
+.heading h1{
+    color: rgb(85, 62, 90);
+    text-decoration: underline;
+    text-shadow: 1px 1px 5px gray;
+    font-size: 50px;
+}
+.link{
+    border: red 2px solid;
+    display: inline-block;
+}
+.imgbox{
+    border: 2px black solid;
+    display: flex;
+    justify-content: center;
+}
+.img{
+    border: red 2px solid;
+    width: fit-content;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+}
+.para1{
+    border: red 2px solid;
+    padding: 2px;
+}
+.list{
+    font-size: 12px;
+    border: red 2px solid;
+    display: flex;
+    justify-content: end;
+
+}
+h2{
+    border: red solid;
+    font-size: 29px;
+}
+.para2{
+    border: red 2px solid;
+    padding: 2px;
+}
